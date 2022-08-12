@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Export Data PPDB</title>
+    <style>
+        .table-responsive {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="12">DATA SISWA</th>
+                    <th colspan="8">DATA ORANG TUA</th>
+                    <th colspan="4">DATA SEKOLAH</th>
+                    <th colspan="4">DATA PRESTASI</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>NISN</td>
+                    <td>Nama</td>
+                    <td>J.K</td>
+                    <td>Agama</td>
+                    <td>Tempat lahir</td>
+                    <td>Tanggal lahir</td>
+                    <td>Alamat</td>
+                    <td>Status Anak</td>
+                    <td>Anak ke</td>
+                    <td>Jumlah saudara</td>
+                    <td>No. HP</td>
+                    <td>Hobi</td>
+
+                    <td>Nama Ayah</td>
+                    <td>Pendidikan Ayah</td>
+                    <td>Pekerjaan Ayah</td>
+                    <td>Penghasilan Ayah</td>
+                    <td>Nama Ibu</td>
+                    <td>Pendidikan Ibu</td>
+                    <td>Pekerjaan Ibu</td>
+                    <td>Penghasilan Ibu</td>
+
+                    <td>Nama Sekolah</td>
+                    <td>Status Sekolah</td>
+                    <td>Jurusan</td>
+                    <td>Lulusan</td>
+
+                    <td>Nama Prestasi</td>
+                    <td>Tingkat Prestasi</td>
+                    <td>Tahun Prestasi</td>
+                    <td>Juara Siswa</td>
+                </tr>
+                                    <tr>
+                        <td>32523523</td>
+                        <td>BimaEga</td>
+                        <td>Laki-laki</td>
+                        <td>islam</td>
+                        <td>Kisaran</td>
+                        <td>2002-05-04</td>
+                        <td>my alamat</td>
+                        <td>anak kandung</td>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>0832984927</td>
+                        <td>Petinju</td>
+                        <td>Muhammad johar</td>
+                        <td>S2</td>
+                        <td>Wiraswasta</td>
+                        <td>43,435</td>
+                        <td>Delfiana siregar</td>
+                        <td>S1</td>
+                        <td>Wiraswasta</td>
+                        <td>535,355</td>
+                        <td>SMK N 2 kisaran</td>
+                        <td>Negeri</td>
+                        <td>TKJ</td>
+                        <td>32423</td>
+                        <td>Prestasi juara nasional</td>
+                        <td>kabupaten</td>
+                        <td>2017</td>
+                        <td>1</td>
+                    </tr>
+                                    <tr>
+                        <td>7948723749339</td>
+                        <td>Siswa 123</td>
+                        <td>Laki-laki</td>
+                        <td>islam</td>
+                        <td>Kisaran</td>
+                        <td>1999-05-04</td>
+                        <td>my alamat</td>
+                        <td>anak kandung</td>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>2389749379739</td>
+                        <td>petinju</td>
+                        <td>joko</td>
+                        <td>S1</td>
+                        <td>Wirausaha</td>
+                        <td>2,000,000</td>
+                        <td>Siti</td>
+                        <td>S2</td>
+                        <td>Wirausaha</td>
+                        <td>3,000,000</td>
+                        <td>SMA 1</td>
+                        <td>Negeri</td>
+                        <td>TKJ</td>
+                        <td>2017</td>
+                        <td>Prestasi juara nasional</td>
+                        <td>P</td>
+                        <td>2017</td>
+                        <td>1</td>
+                    </tr>
+                
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+</html>
